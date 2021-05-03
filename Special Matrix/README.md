@@ -1,7 +1,8 @@
 This assignment was to develop a certain matrix 
   
 Inputs  
-* *n* and *m* for the dimensions of a matrix    
+* *n* and *m* for the dimensions of a matrix  
+  
 Outputs 
 * A matrix with these criteria  
   
