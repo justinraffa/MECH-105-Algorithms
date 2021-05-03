@@ -1,3 +1,5 @@
+This assignment was to develop a certain matrix 
+  
 Inputs "n,m" for the dimensions of a matrix.  
 Outputs a matrix with these criteria:  
 1.The value of each element in the first row is the number of the column.  
